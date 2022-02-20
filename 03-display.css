@@ -1,0 +1,19 @@
+nav{
+    background-color: lightskyblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+nav a{
+    font: sans-serif bold 400;
+    color: black;
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+nav a:hover{
+    background-color: gainsboro;
+}
